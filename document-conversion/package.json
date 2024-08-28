@@ -13,7 +13,7 @@
     "autoprefixer": "10.4.20",
     "encoding": "^0.1.13",
     "eslint-config-next": "^14.2.6",
-    "googleapis": "^142.0.0",
+    "googleapis": "^143.0.0",
     "highlight.js": "^11.10.0",
     "jsdom": "^25.0.0",
     "markdown-it": "^14.1.0",
