@@ -1,6 +1,6 @@
 {
   "name": "@hlexnc/document-conversion-solutions",
-  "version": "1.1.71",
+  "version": "1.1.72",
   "description": "A library and API for document conversion using officegen",
   "main": "src/documentLibrary.js",
   "scripts": {
