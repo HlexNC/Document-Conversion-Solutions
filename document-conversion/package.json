@@ -17,7 +17,7 @@
     "highlight.js": "^11.11.1",
     "jsdom": "^25.0.1",
     "markdown-it": "^14.1.0",
-    "next": "^14.2.24",
+    "next": "^15.2.4",
     "postcss": "8.5.3",
     "pptxgenjs": "^3.12.0",
     "react": "^19.0.0",
