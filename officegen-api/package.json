@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "express": "^4.21.2",
+    "express": "^5.1.0",
     "officegen": "^0.6.5",
     "stream-buffers": "^3.0.3"
   },
