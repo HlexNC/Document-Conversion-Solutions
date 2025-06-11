@@ -20,7 +20,7 @@
     "next": "^14.2.24",
     "postcss": "8.5.3",
     "pptxgenjs": "^3.12.0",
-    "react": "^19.0.0",
+    "react": "^19.1.0",
     "react-dom": "^19.0.0",
     "react-markdown": "^9.0.3",
     "react-syntax-highlighter": "^15.6.1",
@@ -31,7 +31,7 @@
   "devDependencies": {
     "@types/markdown-it": "^14.1.2",
     "@types/node": "^22.13.4",
-    "@types/react": "^19.0.10",
+    "@types/react": "^19.1.0",
     "@types/react-syntax-highlighter": "^15.5.13",
     "eslint": "^9.20.1",
     "markdown-it": "^14.1.0",
